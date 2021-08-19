@@ -1,0 +1,13 @@
+body {
+  color: grey;
+  background: white;
+  max-width: 600px;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+  margin-top: 3rem;
+  padding: 3rem;
+  border-top: 1px solid lightgray;
+}
